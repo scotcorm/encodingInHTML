@@ -1,2 +1,57 @@
 # encodingInHTML
 module2 encoding in HTML Challenge
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="author" content="Scott Cormier">
+        <meta name="description" content="Seafood Jambalaya">
+        <meta name="keywords" content="Recipe,Seafood,Cajun">
+        <title>Seafood Jambalaya</title>
+
+    </head>
+    <body>
+        <h1>Seafood Jambalaya</h1>
+            <p>Traditional recipe from a family collection labeled: "Cajun Cookin'"</p>
+                <main>
+                    <img src="image/cookin.gif" alt="cookin" height="42" width="42"> 
+                    <p>Jambalaya is a favorite Louisiana dish, and adding seafood instead of the usual chicken, is a luxury touch.</p>
+                    <p><em>Serves 6 to 8 people.</em></p>
+
+                        <h2>Ingredients</h2>
+                            <ul>
+                                <li><a href="https://en.wikipedia.org/wiki/Shrimp_and_prawn_as_food">3 lbs. shrimp (peeled)</a></li>
+                                <li><a href="https://en.wikipedia.org/wiki/Crab_meat">1 lb. crabmeat</a></li>
+                                <li><a href="https://en.wikipedia.org/wiki/Oyster">1 doz. oysters</a></li>
+                                <li><a href="https://en.wikipedia.org/wiki/Sausage">1 ib. smoked sausage (sliced)</a></li>
+                                <li><a href="https://en.wikipedia.org/wiki/White_rice">3 c. rice</a></li>
+                                <li><a href="https://en.wikipedia.org/wiki/Tomato_sauce">1 sm. can tomato sauce</a></li>
+                                <li><a href="https://en.wikipedia.org/wiki/Yellow_onion">1 lg. onion chopped</a></li>
+                                <li><a href="https://en.wikipedia.org/wiki/Parsley">2/3 c. parsley (chopped)</a></li>
+                                <li><a href="https://en.wikipedia.org/wiki/Shallot">2/3 c. shallots (chopped)</a></li>
+                                <li><a href="https://en.wikipedia.org/wiki/Bell_pepper">2/3 c. bell pepper (chopped)</a></li>
+                                <li><a href="https://en.wikipedia.org/wiki/Cooking_oil">2/3 c. cooking oil</a></li>
+                            </ul>
+
+                        <h2>Method</h2>
+                            <ol>
+                                <li>Boil rice- set aside.</li>
+                                <li>Saute' onion over med.-low heat in oil until almost brown.</li>
+                                <li>Add shrimp and cook 15 mins, stirring occasionally</li>
+                                <li>Add parsley, shallots, and bell pepper; saute 10 mins., stirring.</li>
+                                <li>Add smoked sausage and cook for 10 mins.</li>
+                                <li>Add 3 cups water and cook for 1/2 hr. over med. heat.</li>
+                                <li>Add oysters and crab meat; cook 15 mins.</li>
+                                <li>Add salt and pepper to taste.</li>
+                                <li>Add rice little at a time, steadily stirring, until all rice is in.</li>
+                                <li>Heat over medium heat for 15 mins., stirring occasionally.</li>
+                            </ol>
+    
+                </main>
+                    <footer>
+                      <p><a href="https://github.com/scotcorm">Page created by Scott Cormier</a></p>
+                    </footer> 
+    </body>       
+            
+    </html>
